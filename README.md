@@ -1,8 +1,9 @@
 Wi-Fi Rebooter
 ==============
 
-Restart OS X Wi-Fi
+Restart OS X Wi-Fi.
 
+See: <http://umi-uyura.hatenablog.com/entry/2015/07/28/235104>
 
 Generate
 -------
@@ -16,3 +17,5 @@ Usage
 -----
 
 Run WiFiRebooter.app.
+
+
